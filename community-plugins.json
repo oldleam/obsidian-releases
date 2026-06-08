@@ -31897,5 +31897,12 @@
     "author": "Daisuke ITO",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Bidirectional sync between Obsidian and Nextcloud using hash-based change detection.",
     "repo": "siosig/obsidian-nextcloudsync"
-  }
+  },
+  {
+  "id": "calendar-task-planner",
+  "name": "Calendar Task Planner",
+  "author": "твоє ім'я або нікнейм на GitHub",
+  "description": "A clean monthly calendar planner for managing tasks day by day.",
+  "repo": "oldlean/obsidian-calendar-task-planner"
+}
 ]
